@@ -1,0 +1,3 @@
+#+TITLE: NodeJS Server using Stripe API
+
+Rename .env.example to .env and set appropiate stripe tokens.
